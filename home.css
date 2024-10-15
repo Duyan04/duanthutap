@@ -1,0 +1,14 @@
+.container header ul li >a{
+color: black;
+
+}
+ footer{
+    background-color: black;
+    color: white;
+}
+ footer .row .col-6 ul li >a{
+    color: rgb(188, 186, 186);
+}
+footer form div button{
+    background-color: rgb(58, 58, 58);
+}
